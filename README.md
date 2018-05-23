@@ -1,4 +1,4 @@
-## springcloudLearning  
+## springcloudLearning  
 
 eureka-server:  
 cluster：localhost:8091;eureka1:8089;eureka:8090  
